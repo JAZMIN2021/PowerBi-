@@ -1,3 +1,3 @@
 # PowerBi-
 VideoJuegos#1
-![Uploading image.png…]()
+![Descripción de la imagen](image.png)
